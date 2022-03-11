@@ -23,6 +23,7 @@ I am currently developing web applications with React. I started my professional
 
 ### Hard skills
 
+<code><img height="35" alt="javascript" title="Javascript" src="https://media.vlpt.us/images/soom/post/6d36a847-bd07-479a-9953-76cdc9e5afe2/6288755792019456.jpeg"></code>
 <code><img height="35" alt="react" title="React JS" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"></code>
 <code><img height="35" alt="webpack" title="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
