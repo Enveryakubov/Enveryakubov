@@ -24,6 +24,7 @@ I am currently developing web applications with React. I started my professional
 ### Hard skills
 
 <code><img height="35" alt="javascript" title="Javascript" src="https://media.vlpt.us/images/soom/post/6d36a847-bd07-479a-9953-76cdc9e5afe2/6288755792019456.jpeg"></code>
+<code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="react" title="React JS" src="https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png"></code>
 <code><img height="35" alt="CSSandHTML" title="HTML and CSS" src="https://i.pinimg.com/736x/52/2e/6b/522e6bc1a11d1726a35f81cbd979395f.jpg"></code>
 <code><img height="35" alt="webpack" title="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"></code>
@@ -31,7 +32,6 @@ I am currently developing web applications with React. I started my professional
 <code><img height="35" alt="drf" title="DRF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrcVkgorxwsK1dt1g0QPO8FVH7agby6j6HqihwKxEbkRs5ZQjhPoAjgc-6QxYrVnFMUI&usqp=CAU"></code>
 <code><img height="35" alt="storybook" title="Storybook" src="https://designlogovector.com/wp-content/uploads/2022/01/storybook-logo-svg-300x300.jpg"></code>
 <code><img height="35" alt="express" title="Express JS" src="https://miro.medium.com/max/1838/0*r1BTGwo9cd8IGNQQ.jpeg"></code>
-<code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="Redux" title="Redux" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
 <code><img height="35" alt="rxjs" title="Rxjs" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg"></code>
 <code><img height="35" alt="node" title="Node JS" src="https://designlogovector.com/wp-content/uploads/2022/02/node-js-logo-svg-300x300.jpg"></code>
