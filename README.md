@@ -27,6 +27,7 @@ I am currently developing web applications with React. I started my professional
 <code><img height="35" alt="react" title="React JS" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"></code>
 <code><img height="35" alt="webpack" title="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"></code>
 <code><img height="35" alt="django" title="Django" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTxlcL2JMKCLGd4bLxVZ8KtY81PxyEY1Wr0U8UauEPz0IrF1-ZAvixW-8sGvwj-ZaayA&usqp=CAU"></code>
+<code><img height="35" alt="drf" title="DRF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrcVkgorxwsK1dt1g0QPO8FVH7agby6j6HqihwKxEbkRs5ZQjhPoAjgc-6QxYrVnFMUI&usqp=CAU"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="Redux" title="Redux" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
 <code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
