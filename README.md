@@ -30,6 +30,7 @@ I am currently developing web applications with React. I started my professional
 <code><img height="35" alt="drf" title="DRF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrcVkgorxwsK1dt1g0QPO8FVH7agby6j6HqihwKxEbkRs5ZQjhPoAjgc-6QxYrVnFMUI&usqp=CAU"></code>
 <code><img height="35" alt="Python" title="Python" src="https://web-creator.ru/uploads/Page/19/python.svg"></code>
 <code><img height="35" alt="Redux" title="Redux" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
+<code><img height="35" alt="rxjs" title="Rxjs" src="https://miro.medium.com/max/1007/1*hj71wy_fVD1qIG8q9mnPjg.png"></code>
 <code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="35" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
 
