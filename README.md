@@ -3,7 +3,7 @@
   
 My name is Enver. 
 
-I am currently developing web applications with React. I started my professional journey with creating web sites on Django and Django RF. It was my initial full-stack experience. Then, I have discovered React and realized that it was something I was looking for. These days, I develop applications to do with banking and financial fields and spend some time on mastering Angular.
+I am currently developing web applications with React. I started my professional journey with creating web sites on Django and Django RF. It was my initial full-stack experience. These days, I develop webapps to do with banking and financial fields on React and spend some time on mastering Angular.
 
 ### My contacts
   
