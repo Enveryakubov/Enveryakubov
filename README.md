@@ -1,7 +1,7 @@
 
 ### Hi there!
   
-My name is Enver. 
+My name is Enver. I am a Front End Web Developer.
 
 #### I am one those lucky people who never have to work a day in their lives because I love doing what I do professionally (most of the time 🙃)
 
