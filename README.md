@@ -3,7 +3,7 @@
   
 My name is Enver. 
 
-#### I am one those lucky people who never have to work a day in their lives because I love doing what I do professionally (most of the time &#128579)
+#### I am one those lucky people who never have to work a day in their lives because I love doing what I do professionally (most of the time 🙃)
 
 I started my professional journey with creating web sites on Django and Django RF. It was my initial full-stack experience. These days, I develop webapps to do with banking and financial fields on React and spend some time on mastering Angular.
 
