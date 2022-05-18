@@ -33,7 +33,7 @@ I started my professional journey with creating web sites on Django and Django R
 <code><img height="35" alt="webpack" title="Webpack" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png"></code>
 <code><img height="35" alt="React" title="React JS" src="https://psdland.net/wp-content/uploads/2020/12/Download-React-vector-logo.png"></code>
 <code><img height="35" alt="angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"></code>
-<code><img height="35" alt="django" title="Django" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTxlcL2JMKCLGd4bLxVZ8KtY81PxyEY1Wr0U8UauEPz0IrF1-ZAvixW-8sGvwj-ZaayA&usqp=CAU"></code>
+<code><img height="35" alt="django" title="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 <code><img height="35" alt="drf" title="DRF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrcVkgorxwsK1dt1g0QPO8FVH7agby6j6HqihwKxEbkRs5ZQjhPoAjgc-6QxYrVnFMUI&usqp=CAU"></code>
 <code><img height="35" alt="storybook" title="Storybook" src="https://designlogovector.com/wp-content/uploads/2022/01/storybook-logo-svg-300x300.jpg"></code>
 <code><img height="35" alt="express" title="Express JS" src="https://miro.medium.com/max/1838/0*r1BTGwo9cd8IGNQQ.jpeg"></code>
@@ -42,6 +42,7 @@ I started my professional journey with creating web sites on Django and Django R
 <code><img height="35" alt="node" title="Node JS" src="https://designlogovector.com/wp-content/uploads/2022/02/node-js-logo-svg-300x300.jpg"></code>
 <code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="35" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
+<code><img height="35" alt="Docker" title="Docker" src="https://blog.ag-grid.com/content/images/2021/02/new-logo-1.png"></code>
 
 <br />
 
