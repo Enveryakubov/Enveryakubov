@@ -36,13 +36,13 @@ I started my professional journey with creating web sites on Django and Django R
 <code><img height="45" alt="django" title="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 <code><img height="45" alt="drf" title="DRF" src="https://img.stackshare.io/service/1630/New_Project__67_.png"></code>
 <code><img height="45" alt="storybook" title="Storybook" src="https://designlogovector.com/wp-content/uploads/2022/01/storybook-logo-svg-300x300.jpg"></code>
-<code><img height="45" alt="express" title="Express JS" src="https://miro.medium.com/max/1838/0*r1BTGwo9cd8IGNQQ.jpeg"></code>
+<code><img height="45" alt="express" title="Express JS" src="https://fd-development.com/images/expressjs.png"></code>
 <code><img height="45" alt="Redux" title="Redux" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
 <code><img height="45" alt="rxjs" title="Rxjs" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg"></code>
 <code><img height="45" alt="node" title="Node JS" src="https://designlogovector.com/wp-content/uploads/2022/02/node-js-logo-svg-300x300.jpg"></code>
 <code><img height="45" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="45" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="45" alt="Docker" title="AG Grid" src="https://blog.ag-grid.com/content/images/2021/02/new-logo-1.png"></code>
+<code><img height="45" alt="Ag grid" title="AG Grid" src="https://blog.ag-grid.com/content/images/2021/02/new-logo-1.png"></code>
 
 <br />
 
