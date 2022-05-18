@@ -42,7 +42,7 @@ I started my professional journey with creating web sites on Django and Django R
 <code><img height="35" alt="node" title="Node JS" src="https://designlogovector.com/wp-content/uploads/2022/02/node-js-logo-svg-300x300.jpg"></code>
 <code><img height="35" alt="GitLab" title="GitLab" src="https://nuts-agency.ru/upload/iblock/bac/bacce1db8d3d0810626b33e9ed0f1545.png"></code>
 <code><img height="35" alt="Docker" title="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"></code>
-<code><img height="35" alt="Docker" title="Docker" src="https://blog.ag-grid.com/content/images/2021/02/new-logo-1.png"></code>
+<code><img height="35" alt="Docker" title="AG Grid" src="https://blog.ag-grid.com/content/images/2021/02/new-logo-1.png"></code>
 
 <br />
 
