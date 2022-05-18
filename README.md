@@ -34,7 +34,7 @@ I started my professional journey with creating web sites on Django and Django R
 <code><img height="35" alt="React" title="React JS" src="https://psdland.net/wp-content/uploads/2020/12/Download-React-vector-logo.png"></code>
 <code><img height="35" alt="angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"></code>
 <code><img height="35" alt="django" title="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
-<code><img height="35" alt="drf" title="DRF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgrcVkgorxwsK1dt1g0QPO8FVH7agby6j6HqihwKxEbkRs5ZQjhPoAjgc-6QxYrVnFMUI&usqp=CAU"></code>
+<code><img height="35" alt="drf" title="DRF" src="https://img.stackshare.io/service/1630/New_Project__67_.png"></code>
 <code><img height="35" alt="storybook" title="Storybook" src="https://designlogovector.com/wp-content/uploads/2022/01/storybook-logo-svg-300x300.jpg"></code>
 <code><img height="35" alt="express" title="Express JS" src="https://miro.medium.com/max/1838/0*r1BTGwo9cd8IGNQQ.jpeg"></code>
 <code><img height="35" alt="Redux" title="Redux" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
