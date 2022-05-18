@@ -36,7 +36,7 @@ I started my professional journey with creating web sites on Django and Django R
 <code><img height="45" alt="django" title="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 <code><img height="45" alt="drf" title="DRF" src="https://img.stackshare.io/service/1630/New_Project__67_.png"></code>
 <code><img height="45" alt="storybook" title="Storybook" src="https://designlogovector.com/wp-content/uploads/2022/01/storybook-logo-svg-300x300.jpg"></code>
-<code><img height="45" alt="express" title="Express JS" src="https://fd-development.com/images/expressjs.png"></code>
+<code><img height="45" alt="express" title="Express JS" src="https://miro.medium.com/max/800/1*9AbbVli10NreTXCpiVYEOQ.png"></code>
 <code><img height="45" alt="Redux" title="Redux" src="https://blog.telexarsoftware.com/wp-content/uploads/2019/11/logo-redux.png"></code>
 <code><img height="45" alt="rxjs" title="Rxjs" src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg"></code>
 <code><img height="45" alt="node" title="Node JS" src="https://designlogovector.com/wp-content/uploads/2022/02/node-js-logo-svg-300x300.jpg"></code>
